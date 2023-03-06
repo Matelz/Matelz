@@ -1,7 +1,2 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on: ♾️ React / TypeScript
-- 🌱 I’m currently learning:  React Native
-- 😄 Pronouns: He / His
-
-<img src="https://github-readme-stats.vercel.app/api?username=Matelz&count_private=true&show_icons=true&theme=dracula"></img>
+<h1 align="center">👋 Hey There!! It's <b>Matt</b></h1>
+<p align="center">I'm a student / software developer located in <img width="15px" src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/brazil-flag-icon.png"><b> Brazil</b></p>
